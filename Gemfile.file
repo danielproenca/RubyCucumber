@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+group :test do
+  gem "rspec"
+  gem 'cucumber'
+  gem 'magic_encoding'
+  gem 'selenium-webdriver'
+  gem 'capybara'
+  gem 'site_prism'
+  gem 'httparty'
+end
